@@ -3,7 +3,7 @@
 # 🎓 Anthropic Learn Certification Journey
 
 [![Platform](https://img.shields.io/badge/Platform-Anthropic_Skilljar-FF6600?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.skilljar.com/)
-[![Certificates](https://img.shields.io/badge/Certificates_Earned-3-00D084?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/developtheweb/anthropic-certs)
+[![Certificates](https://img.shields.io/badge/Certificates_Earned-4-00D084?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/developtheweb/anthropic-certs)
 [![Progress](https://img.shields.io/badge/Course_Progress-In_Progress-FFD700?style=for-the-badge&logo=target&logoColor=black)](https://anthropic.skilljar.com/)
 
 <br/>
@@ -56,6 +56,15 @@
 **Issued:** August 19, 2025  
 **Verification:** [View Certificate](https://verify.skilljar.com/c/7ehubcqn26xs)
 
+---
+
+### 🔌 **Introduction to Model Context Protocol**
+<img src="assets/certificate-bekdt9ujivei-1755636965.png" alt="Model Context Protocol Certificate" width="600" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); margin: 20px 0;">
+
+**Certificate ID:** `bekdt9ujivei-1755636965`  
+**Issued:** August 19, 2025  
+**Verification:** [View Certificate](https://verify.skilljar.com/c/bekdt9ujivei)
+
 </div>
 
 ---
@@ -69,7 +78,8 @@ graph TD
     A[🏆 AI Fluency: Framework & Foundations] -->|COMPLETED| B[✅]
     C[🏆 Claude with the Anthropic API] -->|COMPLETED| B
     D[🏆 Claude Code in Action] -->|COMPLETED| B
-    E[📖 Introduction to Model Context Protocol] -->|IN PROGRESS| F[⏳]
+    E[🏆 Introduction to Model Context Protocol] -->|COMPLETED| B
+    K[📖 Model Context Protocol: Advanced Topics] -->|IN PROGRESS| F[⏳]
     G[📘 Advanced Prompt Engineering] -->|UPCOMING| H[🔜]
     I[📙 AI Safety & Best Practices] -->|UPCOMING| H
     J[📗 Enterprise Integration] -->|UPCOMING| H
@@ -77,7 +87,8 @@ graph TD
     style A fill:#4CAF50,stroke:#2E7D32,stroke-width:3px,color:#fff
     style C fill:#4CAF50,stroke:#2E7D32,stroke-width:3px,color:#fff
     style D fill:#4CAF50,stroke:#2E7D32,stroke-width:3px,color:#fff
-    style E fill:#FFD700,stroke:#FFA000,stroke-width:3px,color:#000
+    style E fill:#4CAF50,stroke:#2E7D32,stroke-width:3px,color:#fff
+    style K fill:#FFD700,stroke:#FFA000,stroke-width:3px,color:#000
     style G fill:#E3F2FD,stroke:#1976D2,stroke-width:2px
     style I fill:#E3F2FD,stroke:#1976D2,stroke-width:2px
     style J fill:#E3F2FD,stroke:#1976D2,stroke-width:2px
@@ -92,7 +103,8 @@ graph TD
 | ✅ | **AI Fluency: Framework & Foundations** | Completed |
 | ✅ | **Claude with the Anthropic API** | Completed |
 | ✅ | **Claude Code in Action** | Completed |
-| 🔄 | **Introduction to Model Context Protocol** | Within the hour |
+| ✅ | **Introduction to Model Context Protocol** | Completed |
+| 🔄 | **Model Context Protocol: Advanced Topics** | In Progress |
 | 📅 | **Advanced Prompt Engineering** | Today |
 | 📅 | **AI Safety & Best Practices** | This week |
 | 📅 | **Enterprise Integration** | This week |
@@ -167,7 +179,7 @@ safety:
 | **API Development** | ███████░░░ 70% | Full-stack integration, async operations |
 | **Claude Code CLI** | █████████░ 90% | Automation, scripting, workflow optimization |
 | **AI Safety** | ███████░░░ 70% | Constitutional AI, harm mitigation |
-| **Model Context Protocol** | ██░░░░░░░░ 20% | Currently learning |
+| **Model Context Protocol** | ██████████ 100% | MCP tools, server implementation, client integration |
 | **Enterprise Integration** | ░░░░░░░░░░ 0% | Upcoming course |
 
 </div>
@@ -202,7 +214,8 @@ timeline
     August 19, 2025   : Claude with the Anthropic API
                       : Claude Code in Action
                       
-    August 19, 2025   : Introduction to Model Context Protocol (In Progress)
+    August 19, 2025   : Introduction to Model Context Protocol
+                      : Model Context Protocol Advanced Topics (In Progress)
     
     Coming Soon       : Advanced Prompt Engineering
                       : AI Safety & Best Practices
