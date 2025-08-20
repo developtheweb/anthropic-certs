@@ -89,9 +89,8 @@ graph TD
     D[🏆 Claude Code in Action] -->|COMPLETED| B
     E[🏆 Introduction to Model Context Protocol] -->|COMPLETED| B
     K[🏆 Model Context Protocol: Advanced Topics] -->|COMPLETED| B
-    G[📘 Advanced Prompt Engineering] -->|UPCOMING| H[🔜]
-    I[📙 AI Safety & Best Practices] -->|UPCOMING| H
-    J[📗 Enterprise Integration] -->|UPCOMING| H
+    G[📘 Claude with Amazon Bedrock] -->|UPCOMING| H[🔜]
+    I[📙 Claude with Google Cloud's Vertex AI] -->|UPCOMING| H
     
     style A fill:#4CAF50,stroke:#2E7D32,stroke-width:3px,color:#fff
     style C fill:#4CAF50,stroke:#2E7D32,stroke-width:3px,color:#fff
@@ -100,7 +99,6 @@ graph TD
     style K fill:#4CAF50,stroke:#2E7D32,stroke-width:3px,color:#fff
     style G fill:#E3F2FD,stroke:#1976D2,stroke-width:2px
     style I fill:#E3F2FD,stroke:#1976D2,stroke-width:2px
-    style J fill:#E3F2FD,stroke:#1976D2,stroke-width:2px
 ```
 
 </div>
@@ -114,9 +112,8 @@ graph TD
 | ✅ | **Claude Code in Action** | Completed |
 | ✅ | **Introduction to Model Context Protocol** | Completed |
 | ✅ | **Model Context Protocol: Advanced Topics** | Completed |
-| 📅 | **Advanced Prompt Engineering** | Today |
-| 📅 | **AI Safety & Best Practices** | This week |
-| 📅 | **Enterprise Integration** | This week |
+| 📅 | **Claude with Amazon Bedrock** | Upcoming |
+| 📅 | **Claude with Google Cloud's Vertex AI** | Upcoming |
 
 ---
 
@@ -226,9 +223,8 @@ timeline
     August 19, 2025   : Introduction to Model Context Protocol
                       : Model Context Protocol Advanced Topics
     
-    Coming Soon       : Advanced Prompt Engineering
-                      : AI Safety & Best Practices
-                      : Enterprise Integration
+    Coming Soon       : Claude with Amazon Bedrock
+                      : Claude with Google Cloud's Vertex AI
 ```
 
 ---
