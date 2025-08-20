@@ -181,12 +181,12 @@ safety:
 
 | Skill Area | Proficiency | Application |
 |:-----------|:-----------:|:------------|
-| **Prompt Engineering** | ████████░░ 80% | Complex multi-turn conversations, system prompts |
-| **API Development** | ███████░░░ 70% | Full-stack integration, async operations |
-| **Claude Code CLI** | █████████░ 90% | Automation, scripting, workflow optimization |
-| **AI Safety** | ███████░░░ 70% | Constitutional AI, harm mitigation |
+| **AI Fluency & Foundations** | ██████████ 100% | Framework understanding, AI principles, use cases |
+| **Claude API Development** | ██████████ 100% | Full-stack integration, async operations, SDK usage |
+| **Claude Code CLI** | ██████████ 100% | Automation, scripting, workflow optimization |
 | **Model Context Protocol** | ██████████ 100% | MCP tools, server implementation, client integration |
-| **Enterprise Integration** | ░░░░░░░░░░ 0% | Upcoming course |
+| **Amazon Bedrock Integration** | ░░░░░░░░░░ 0% | Upcoming course |
+| **Google Vertex AI Integration** | ░░░░░░░░░░ 0% | Upcoming course |
 
 </div>
 
